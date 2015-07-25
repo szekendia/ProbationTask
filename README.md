@@ -6,5 +6,4 @@ Folder name | Content
 ----------- | -------
 PROBATIONTASK | Non-empty folders of the Talend Open Studio project's workspace
 KSH | KSH statistics prepared for data analysis
-           | * GeoTimeSeries.csv
-           | * TimeSeries.csv
+
