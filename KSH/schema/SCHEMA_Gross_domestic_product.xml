@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="true" label="year" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_Integer"/>
+    <column comment="" default="" key="false" label="gdp__1960_equal_100" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="total_actual_final_consumption" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="actual_final_consumption_of_households" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="total_gross_capital_formation" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="gross_fixed_capital_formation" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+</schema>

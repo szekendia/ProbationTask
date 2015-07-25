@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="true" label="Teruleti_egyseg" length="25" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2000" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2001" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2002" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2003" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2004" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2005" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2006" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2007" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2008" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2009" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2010" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2011" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2012" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2013" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="_2014" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+</schema>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="country"
+        length="20" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="region" length="20"
+        nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="sub_region"
+        length="30" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="county" length="20"
+        nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="true" label="county_key"
+        length="30" nullable="true" originalDbColumnName="county_key"
+        pattern="" precision="0" talendType="id_String"/>
+</schema>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="Section"
+        length="10" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="StatDescription"
+        length="100" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="UpdateInfo"
+        length="20" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="URL" length="100"
+        nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="FileName"
+        length="100" nullable="true" originalDbColumnName="FileName"
+        pattern="" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false"
+        label="Transformation_type" length="50" nullable="true"
+        originalDbColumnName="Transformation_type" pattern=""
+        precision="0" talendType="id_String"/>
+</schema>

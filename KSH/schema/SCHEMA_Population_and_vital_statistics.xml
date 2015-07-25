@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="true" label="year" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_Integer"/>
+    <column comment="" default="" key="false" label="population_0101_000" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="live_birth_total" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="live_birth_000_inhabitant" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="deaths_total" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="deaths_000_inhabitant" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="natural_incr_decr_toal" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="natural_incr_decr_000_inhabitant" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="infant_mortality_000_live_born" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="marriages_total" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="marriages_000_inhabitant" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="divorces_total" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="divorces_000_inhabitant" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="abortion_total" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="abortion_000_live_birth" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="fertitlity_rate_total" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="avg_life_expect_at_birth_M" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="avg_life_expect_at_birth_F" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="death_by_infectious_and_parasitic" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="death_by_neoplasm" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="death_by_circulatory_system_disease" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="death_by_respitory_system_disease" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="death_by_digestive_system_disease" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="death_by_accidents" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="death_by_suicides" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="death_by_other" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+</schema>

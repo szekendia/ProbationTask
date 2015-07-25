@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="true" label="year" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_Integer"/>
+    <column comment="" default="" key="false" label="published_books" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="copies" length="10" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="stock_of_public_libraries" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="nr_registered_public_library_users" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="cinema_visits" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="theatre_visits" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="museum_visits" length="7" nullable="true" originalDbColumnName="" pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+</schema>
