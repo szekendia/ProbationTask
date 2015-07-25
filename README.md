@@ -36,5 +36,6 @@ The folder pathes used during the process are specified in global context variab
 * _Global.DATA_FOLDER_ : KSH statistics are downloaded into this folder, loaded from this folder and normalized output files are also exported to this location
 * _Global.OPS_FOLDER_ : location of supporting operational files as described above
 * _Global.SCHEMA_FOLDER_ : location of supporting SCHEMA files as described above
+
 ### Usage instructions
 Open the KSH_LTE job and process it by pressing F6
