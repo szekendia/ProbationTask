@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_ERhmgTFzEeWyc-8OlvniZQ" name="Culture" dataPackage="_ERhmgjFzEeWyc-8OlvniZQ" Server="Localhost 127.0.0.1" FilePath="D:/_data/KSH/Culture.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="4" SheetName="2.6." firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" advancedSpearator="true" selectAllSheets="true" sheetList="2.6.:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_ERhmgjFzEeWyc-8OlvniZQ" name="default" dataManager="_ERhmgTFzEeWyc-8OlvniZQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ERhmgzFzEeWyc-8OlvniZQ" id="_2r43QDFyEeWyc-8OlvniZQ" label="SCHEMA_Culture">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7vVADIyEeWVmuNpuxSW2Q" name="" label="year" length="7" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7vVATIyEeWVmuNpuxSW2Q" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7vVAjIyEeWVmuNpuxSW2Q" name="" label="published_books" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7vVAzIyEeWVmuNpuxSW2Q" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7vVBDIyEeWVmuNpuxSW2Q" name="" label="copies" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7vVBTIyEeWVmuNpuxSW2Q" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7vVBjIyEeWVmuNpuxSW2Q" name="" label="stock_of_public_libraries" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7vVBzIyEeWVmuNpuxSW2Q" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7vVCDIyEeWVmuNpuxSW2Q" name="" label="nr_registered_public_library_users" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7vVCTIyEeWVmuNpuxSW2Q" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7vVCjIyEeWVmuNpuxSW2Q" name="" label="cinema_visits" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7vVCzIyEeWVmuNpuxSW2Q" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7vVDDIyEeWVmuNpuxSW2Q" name="" label="theatre_visits" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7vVDTIyEeWVmuNpuxSW2Q" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_m7vVDjIyEeWVmuNpuxSW2Q" name="" label="museum_visits" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_m7vVDzIyEeWVmuNpuxSW2Q" body=""/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

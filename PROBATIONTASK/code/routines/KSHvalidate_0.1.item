@@ -1,0 +1,25 @@
+package routines;
+
+public class KSHvalidate {
+
+    public static Integer KSHinteger(String datafield) {
+    	return ((datafield == null) || (datafield.contains("..")) || (datafield.contains("–")))?new java.math.BigInteger("0").intValue():new java.math.BigInteger(datafield.replace(",","")).intValue();
+    } 
+
+    public static Float KSHfloat(String datafield) {
+    	return ((datafield == null) || (datafield.contains("..")) || (datafield.contains("–")))?new java.math.BigDecimal("0").floatValue():new java.math.BigDecimal(datafield.replace(",","")).floatValue();
+    }
+
+    public static String KSHintegerString(String datafield) {
+    	return ((datafield == null) || (datafield.contains("..")) || (datafield.contains("–")))? "0" : datafield.replace(",","");
+    } 
+
+    public static String KSHfloatString(String datafield) {
+    	return ((datafield == null) || (datafield.contains("..")) || (datafield.contains("–")))? "0" : datafield.replace(",",".");
+    }
+    
+    public static String KSHreplaceChar(String label) {
+    	return label.replace(Character.toString ((char) 369), "ü").replace(Character.toString ((char) 337), "ö");
+    }
+    
+}

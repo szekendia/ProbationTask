@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_GY8JgTF0EeWyc-8OlvniZQ" name="Kozszolgaltatas_kereteben_elszallitott_telepulesi_hulladek" dataPackage="_GY8JgjF0EeWyc-8OlvniZQ" Server="Localhost 127.0.0.1" FilePath="D:/_data/KSH/Kozszolgaltatas_kereteben_elszallitott_telepulesi_hulladek.xls" Encoding="ISO-8859-2" UseHeader="true" HeaderValue="2" FirstLineCaption="true" SheetName="6.5.3." firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" advancedSpearator="true" selectAllSheets="true" sheetList="6.5.3.:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_GY8JgjF0EeWyc-8OlvniZQ" name="default" dataManager="_GY8JgTF0EeWyc-8OlvniZQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_GY8JgzF0EeWyc-8OlvniZQ" id="_6sw2QDFzEeWyc-8OlvniZQ" label="SCHEMA_Kozszolgaltatas_kereteben_elszallitott_telepulesi_hulladek">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu0DKlEeWlVvcY4Vdbvg" name="" label="Teruleti_egyseg" length="50" talendType="id_String" key="true" pattern="&quot;dd-MM-yyyy&quot;" originalLength="50">
+        <initialValue xmi:id="_uBsu0TKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu0jKlEeWlVvcY4Vdbvg" name="" label="_2006" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_uBsu0zKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu1DKlEeWlVvcY4Vdbvg" name="" label="_2007" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_uBsu1TKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu1jKlEeWlVvcY4Vdbvg" name="" label="_2008" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_uBsu1zKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu2DKlEeWlVvcY4Vdbvg" name="" label="_2009" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_uBsu2TKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu2jKlEeWlVvcY4Vdbvg" name="" label="_2010" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_uBsu2zKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu3DKlEeWlVvcY4Vdbvg" name="" label="_2011" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_uBsu3TKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu3jKlEeWlVvcY4Vdbvg" name="" label="_2012" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_uBsu3zKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uBsu4DKlEeWlVvcY4Vdbvg" name="" label="_2013" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_uBsu4TKlEeWlVvcY4Vdbvg" body=""/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
