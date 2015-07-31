@@ -6,6 +6,7 @@ Folder name | Content
 ----------- | -------
 PROBATIONTASK.rar | Archive of the prepared Talend Open Studio project
 KSH folder | KSH statistics prepared for data analysis
+Analysis folder | TIBCO Spotfire sample KSH analysis
 
 ### PROBATIONTASK.rar
 Download and extract the compressed file into the TOS Data Integrator's workspace folder. After extraction, import the project.
@@ -29,6 +30,13 @@ The folder contains the following files:
 	* _Schema_XML_generator.xlsx_ : Excel tool to generate schema XML content
 	* _SCHEMA_...xml_ : Supporting schema XML-s for faster metadata management
 	* _errorlog.csv_ : Log file of download and FileInput errors (generated on 1st error)
+
+### Analysis folder
+The folder contains the following files:
+* __TimeSeriesMEM.dxp__ : TIBCO Spotfire 7.0 sample KSH analysis with embedded data set
+* __TimeSeries.dxp__ : TIBCO Spotfire 7.0 sample KSH analysis, linked to source files (*.csv files in KSH folder)
+
+-----------------------------------------------------------------------------------------------------------------
 
 ### Probation Task project
 The objective of the project is to download, load, transform (normalize) and extract specific KSH statistics.
